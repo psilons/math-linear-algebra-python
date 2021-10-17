@@ -1,0 +1,11 @@
+name: math-linear-algebra-python
+
+channels:
+    - defaults
+
+dependencies:
+    - python>=3.9
+    - pip
+	- numpy
+	- scipy
+    - sympy
