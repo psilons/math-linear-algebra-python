@@ -10,3 +10,5 @@ scipy.linalg includes numpy.linalg
 https://medium.com/secure-and-private-ai-math-blogging-competition/linear-algebra-and-numpy-ab18214fd752
 
 https://github.com/susam/texme
+
+special functions
