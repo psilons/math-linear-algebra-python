@@ -12,3 +12,6 @@ https://medium.com/secure-and-private-ai-math-blogging-competition/linear-algebr
 https://github.com/susam/texme
 
 special functions
+
+
+https://blog.csdn.net/webor2006/article/details/121987876
